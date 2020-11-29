@@ -1,6 +1,6 @@
 {
     "python.pythonPath": "back\\venv\\Scripts\\python.exe",
-    "window.zoomLevel": -1,
+    "window.zoomLevel": 1,
     "editor.fontSize": 15,
     "cSpell.words": [
         "interpreter"
